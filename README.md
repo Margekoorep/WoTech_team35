@@ -9,7 +9,7 @@ WoTech is a reskilling program, run by Riga TechGirls and Smartworkacademy, whic
 
 ---
 
-**Team Introtuctions**
+## **Team Introtuctions:**
 
 **Marge (team lead):** Hi! I'm Marge from Estonia. Now I can already say I had (as to I have) no previous experience with coding. I applied to WoTech program to gain a knowledge in coding on witch I can start building my career in coding. 
 Right now I am working as a midwife in one of the Estonia's biggest maternity Hospital and women's health clinic. 
