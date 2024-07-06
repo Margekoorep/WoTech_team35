@@ -21,3 +21,15 @@ As a moral support I have my cat Nala who is always ready to give me a play brea
 This time I chose (and everybody agreed - democracy) to be the team lead. It will be a new challenge and with it I will push myself to do thing out of my comfort zone. 
 
 
+
+Hi, I'm **Mirjam** 👋
+I am a newbie in coding and proud of it 😎
+
+I just started working in a FinTech company and hope that knowledge gained in the WoTech program will come in handy in my new role as well as provide me with oppportunities to advance inside the company. I will let the below illustrations speak for my current skillset in Java and Python and future goals.
+
+Skillset 📈
+><img width="230" alt="I_am_here" src="https://github.com/uuskarim/WoTech-lessons/assets/165931641/faae15bd-69cb-4ce5-a90c-a86f0146c490">
+
+
+Goalz
+><img width="229" alt="Goalz" src="https://github.com/uuskarim/WoTech-lessons/assets/165931641/8e18ea5e-48f6-4388-bd9d-52908df41f9c">
