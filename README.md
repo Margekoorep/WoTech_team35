@@ -1,4 +1,4 @@
-# WoTec Team 35
+# WoTech Team 35
 
 This is a repository for **Team 35** in WoTech 2024 programm.
 
