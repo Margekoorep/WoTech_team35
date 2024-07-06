@@ -18,6 +18,6 @@ Right now I am working as a midwife in one of the Estonia's biggest maternity Ho
 
 As a moral support I have my cat Nala who is always ready to give me a play breaks when thing get tough and my brain needs a break. 
 
-This time I chose (and everybody agreed - democracy) to be the team lead It will be a new challenge and with it I will push myself to do thing out of my comfort zone. 
+This time I chose (and everybody agreed - democracy) to be the team lead. It will be a new challenge and with it I will push myself to do thing out of my comfort zone. 
 
 
