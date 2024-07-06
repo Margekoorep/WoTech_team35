@@ -37,7 +37,7 @@ Goalz
 
 
 **Zanda:**
-I am from Latvia. As most of all I am new in programming. Still a lot to have to learn and practice but already have gain valuable knowledge in reading codes in java and python. 
+Hi! I am from Latvia. As most of all I am new in programming. Still a lot to have to learn and practice but already have gain valuable knowledge in reading codes in java and python. 
 
 Currently I am working as a business analyst but till now have not had to code therefore this knowledge is valuable and I hope I can apply it more in my work or transition to IT – which is one of my goals.
 
