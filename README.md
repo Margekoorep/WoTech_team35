@@ -42,3 +42,16 @@ Hi! I am from Latvia. As most of all I am new in programming. Still a lot to hav
 Currently I am working as a business analyst but till now have not had to code therefore this knowledge is valuable and I hope I can apply it more in my work or transition to IT – which is one of my goals.
 
 Let’s help each other to learn and be successful to reach our goals!
+
+----
+**Kristine**
+
+I am from Latvia and I really want to become a programmer. 
+
+I already tried once, but I failed, which was a very painful blow for me, so now I am very cautious about my future in programming. 
+
+I am not sure if I have what it takes to get there. But as you can see, I'm not sitting with my hands in my lap, and I'm moving a little towards my goal.:)
+
+As in the saying that I really like: "If you have a goal, go for it, if you don't have the strength, then crawl, if you don't have the strength to crawl, then at least lie down in the direction of the goal :D"
+
+
