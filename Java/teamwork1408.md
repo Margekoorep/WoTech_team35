@@ -1,5 +1,6 @@
 Controller
-```java@RequestMapping("/user")
+```java
+@RequestMapping("/user")
 public class UserController {
 
     private UserService userService;
