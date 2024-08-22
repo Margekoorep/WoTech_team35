@@ -1,4 +1,5 @@
 These are the questions Team 35 asked and found answers to: 
+
 How many diferent type of pets there are?
 ```
 SELECT kind, COUNT(*) AS Count 
